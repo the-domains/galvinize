@@ -1,0 +1,13 @@
+layout_spectrum: 0.546595
+color:
+  saturation: 0.1511445
+  lightness: 0.5325535
+  brandStrength: 1
+  brandColors:
+    - '#0B0603'
+    - '#EADFCE'
+    - '#BDAA80'
+    - '#775B42'
+  rhythmicContrast: 0.7313648
+typography_spectrum: 0.5125448
+name: Galvinize
